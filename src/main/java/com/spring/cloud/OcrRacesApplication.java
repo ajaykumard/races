@@ -32,7 +32,7 @@ public class OcrRacesApplication implements CommandLineRunner {
 	@Override
 	public void run(String... arg0) throws Exception 
 	{
-		races.add(new Race("Beast", "123", "MA", "Boston"));
+		races.add(new Race("Beast", "123", "MA", "Stuttgart"));
 		races.add(new Race("Tough Mudder", "456", "RI", "Providence"));
 	}
 	
